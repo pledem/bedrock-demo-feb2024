@@ -20,6 +20,9 @@
 
     ```bash
     python ask-bedrock.py --ask "your question here"
+
+    python ask-bedrock.py --ask "what medication will treat high blood pressure"
+    
     ```
 
     >>Optional arguments:
